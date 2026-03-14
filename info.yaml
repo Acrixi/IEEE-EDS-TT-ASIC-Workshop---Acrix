@@ -2,7 +2,7 @@
 project: "IEEE-EDS-TT-ASIC-Workshop"
   wokwi_id:     458481597736828929       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Tiny Tapeout Test Gates"      # Project title
-  author:       "Rashon Barrow"      # Your name
+  author:       Rashon Barrow     # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Testing logic gates and a clock divider"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
