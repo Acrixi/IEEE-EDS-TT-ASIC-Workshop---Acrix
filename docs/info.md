@@ -17,7 +17,7 @@ Input 1 and 7 is connected to a XOR gate
 
 ## How to test
 
-Explain how to use your project
+Explain how to use your project a
 |  input   |  output  |
 |----------|----------|
 | 00000000 | xxxxxxx1 |
