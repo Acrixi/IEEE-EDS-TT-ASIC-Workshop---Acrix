@@ -9,7 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Input 0 and 1 are connected to a NAND gate.
+Input 2 is connected to a NOT gate.
+Input 3 and 4 are connected to an OR gate.
+Input 5 and 6 are connected to a XNOR gate
+Input 1 and 7 is connected to a XOR gate
 
 ## How to test
 
