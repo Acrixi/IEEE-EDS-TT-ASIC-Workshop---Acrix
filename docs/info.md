@@ -18,6 +18,24 @@ Input 1 and 7 is connected to a XOR gate
 ## How to test
 
 Explain how to use your project
+|  input   |  output  |
+|----------|----------|
+| 00000000 | xxxxxxx1 |
+| 00000001 | xxxxxxx0 |
+| 00000010 | xxxxxxxx |
+| 00000011 | xxxxxxx1 |
+| 00000100 | xxxxxxx0 |
+| 00000101 | xxxxxxxx |
+| 00000110 | xxxxxxx1 |
+| 00000111 | xxxxxxx0 |
+| 00001000 | xxxxxxxx |
+| 00001001 | xxxxxxx1 |
+| 00001010 | xxxxxxx0 |
+| 00001011 | xxxxxxxx |
+| 00001100 | xxxxxxx1 |
+| 00001101 | xxxxxxx0 |
+| 00001110 | xxxxxxxx |
+| 00001111 | xxxxxxxx |
 
 ## External hardware
 
