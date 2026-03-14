@@ -15,9 +15,7 @@ Input 3 and 4 are connected to an OR gate.
 Input 5 and 6 are connected to a XNOR gate
 Input 1 and 7 is connected to a XOR gate
 
-## How to test
 
-Explain how to use your project 
 
 ## How to test
 
